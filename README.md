@@ -70,3 +70,13 @@ See the [CONTRIBUTING file](https://github.com/voidlabs/mosaico/blob/master/CONT
 ### Contact Us
 
 Please contact us if you have ideas, suggestions or, even better, you want to collaborate on this project ( feedback at mosaico.io ) or you need COMMERCIAL support ( sales at mosaico.io ) . Please DON'T write to this email to get free support: use Git issues for that, start the issue subject with "[help] " prefix, and write something to let us know you already read the CONTRIBUTING file.
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
